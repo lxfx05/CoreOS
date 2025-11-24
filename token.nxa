@@ -1,0 +1,22 @@
+1  → move right
+3  → move left
+5  → move up
+7  → move down
+
+2  → move diagonal up-right
+4  → move diagonal up-left
+6  → move diagonal down-right
+8  → move diagonal down-left
+
+C  → center window
+O  → open/close window
+
+H+ → increase window height
+H- → decrease window height
+W+ → increase window width
+W- → decrease window width
+
+Z  → open apps menu
+
+?  → show this help
+Q  → quit program
