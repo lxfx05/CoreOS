@@ -35,7 +35,7 @@ git clone https://github.com/lxfx05/CoreOS.git
 
 2. Go to the CoreOS folder:
 ````
-cd CoreOS
+cd CoreOS/CoreOS
 ````
 
 3. Make sure ````nxa.py```` is executable:
