@@ -5,18 +5,6 @@ It runs directly in Python and supports interactive window movement, apps, and a
 
 ---
 
-## Repository Structure 🗂️
-
-CoreOS/
-├─ nxa.py        # Main Python script
-├─ screen.nxa    # ASCII display layout
-├─ token.nxa     # Key mappings and help
-└─ apps/
-   └─ clock.nxa # Clock app (text-based)
-Os.sh            # Optional setup/run script
-token.nxa        # Same as in CoreOS/
-
----
 
 ## Requirements ❓
 
