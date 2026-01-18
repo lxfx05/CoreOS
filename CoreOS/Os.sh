@@ -1,3 +1,18 @@
+
+#!/bin/bash
+set -e
+
+echo "Creazione CoreOS... (nessun file esterno richiesto)"
+sleep 0.5
+
+# Crea cartelle
+mkdir -p CoreOS
+mkdir -p CoreOS/apps
+
+# =========================
+# nxa.py completo
+# =========================
+cat > CoreOS/nxa.py << 'EOF'
 #!/usr/bin/env python3
 import os
 import sys
@@ -243,3 +258,62 @@ if __name__ == "__main__":
     clear()
     screen_lines = load_screen(os.path.join(script_dir, "screen.nxa"))
     run_interactive(screen_lines)
+EOF
+
+chmod +x CoreOS/nxa.py || true
+
+# =========================
+# screen.nxa (display originale ripristinato)
+# =========================
+cat > CoreOS/screen.nxa << 'EOF'
+┌─────────────────────────────── Display ───────────────────────────────┐
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
+EOF
+
+# =========================
+# token.nxa
+# =========================
+cat > CoreOS/token.nxa << 'EOF'
+1  → move right
+3  → move left
+5  → move up
+7  → move down
+
+2  → move diagonal up-right
+4  → move diagonal up-left
+6  → move diagonal down-right
+8  → move diagonal down-left
+
+C  → center window
+O  → open/close window
+
+H+ → increase window height
+H- → decrease window height
+W+ → increase window width
+W- → decrease window width
+
+Z  → open apps menu
+
+?  → show this help
+Q  → quit program
+EOF
+
+
+# =========================
+# apps/clock.nxa (vuoto, testo live gestito dallo script)
+cat > CoreOS/apps/clock.nxa << 'EOF'
+EOF
+
+echo "======================================"
+echo "CoreOS 2.0 installato con successo!"
+echo "Avviare con: python3 CoreOS/nxa.py"
+echo "======================================"
