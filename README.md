@@ -1,74 +1,43 @@
-# CoreOS 2.0 (Termux) 👨🏻‍💻
+<div align="center">
 
-CoreOS 2.0 is a lightweight ASCII-based terminal operating system simulation for Android Termux.
-It runs directly in Python and supports interactive window movement, apps, and a live clock.
+# 📟 **CORE OS**
+### *Low-Level Kernel & System Architecture*
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&color=00FF41&lines=ACCESSING+KERNEL...;SYSTEM+CORE+READY;ROOT+PRIVILEGES+GRANTED" />
+
+<br />
+
+![Security](https://img.shields.io/badge/SECURITY-HARDENED-00FF41?style=for-the-badge&logo=kali-linux&logoColor=black)
+![Status](https://img.shields.io/badge/BUILD-STABLE-00FF41?style=for-the-badge)
 
 ---
 
+</div>
 
-## Requirements ❓
+### 💀 **System Identity**
+Core OS is a minimalist, logic-driven kernel designed for maximum performance and security. No bloatware, just raw power. ⚙️
 
-- Termux on Android
-- Python 3 installed
-- Storage access granted (`termux-setup-storage`)
+### 🛠️ **System Architecture**
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,asm,linux,bash,docker,kali&theme=dark" />
+</a>
+</p>
 
+---
 
-## Installation 📥
+<div align="center">
 
-1. Clone this repository:
+### 🤝 **The Architect**
+<a href="mailto:lucafinaldi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-```bash
-git clone https://github.com/lxfx05/CoreOS.git
-````
+<br />
 
-2. Go to the CoreOS folder:
-````
-cd CoreOS/CoreOS
-````
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&center=true&vCenter=true&width=600&color=00FF41&lines=ROOT@LXFX05:~%24;EXECUTING+LOGIC_FILTERS;ENCRYPTING+DATA_FLOW" />
 
-3. Make sure ````nxa.py```` is executable:
-````
-chmod +x nxa.py
-````
+</div>
 
-# Running CoreOS 🖲️
-
-Launch CoreOS with:
-````
-python3 nxa.py
-````
-
-Or, if you have a helper script ````Os.sh````
-````
-./Os.sh
-````
-
-# Usage
-
-Window controls🎛️
-````
-1 → move right
-3 → move left
-5 → move up
-7 → move down
-2 → diagonal up-right
-4 → diagonal up-left
-6 → diagonal down-right
-8 → diagonal down-left
-C → center window
-O → open/close window
-H+/H- → increase/decrease window height
-W+/W- → increase/decrease window width
-Z → open apps menu
-? → show this help
-Q → quit program
-````
-
-# Available apps📦
-
-- Clock: Shows the current time and daNotes
-
-Notes
-- clock files are self-contained; no external dependencies are required.
-
-- -All best in Termux home directory (~/CoreOS) to avoid storage permission issues.
+---
+*Architected by [Luca Finaldi](https://lxfx05.github.io/Website/)* 🏳️‍🌈
