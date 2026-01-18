@@ -20,12 +20,12 @@
 
 ### 💀 **Kernel & Security Protocols**
 
-\`\`\`dos
+``` dos
 [LOGIN]: ROOT USER IDENTIFIED (LXFX05)
 [LOGIC]: Deterministic resource allocation: ENABLED
 [NET]: Stealth mode active - Packet inspection: ACTIVE
 [AUTH]: RSA-4096 Multi-layer handshake: VERIFIED
-\`\`\`
+```
 
 ### 🛠️ **System Architecture**
 
