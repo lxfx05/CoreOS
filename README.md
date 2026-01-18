@@ -12,6 +12,8 @@
 ![SECURITY](https://img.shields.io/badge/---KALI_LOGIC---00FF41?style=for-the-badge&logo=kali-linux&logoColor=black)
 ![STATUS](https://img.shields.io/badge/---ROOT_ACTIVE---white?style=for-the-badge)
 
+<br />
+
 ---
 
 </div>
@@ -27,9 +29,9 @@
 ### 🛠️ **System Architecture**
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
+</a>
 </p>
 
 ---
@@ -55,5 +57,5 @@
 
 ---
 <p align="right">
-  <i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
+<i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
 </p>
