@@ -60,6 +60,6 @@
 </div>
 
 ---
-<p align="right">
+<p align="left">
   <i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
 </p>
