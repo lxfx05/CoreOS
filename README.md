@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟩 **SYSTEM::CORE_OS**
+# **SYSTEM::CORE_OS**
 ### <kbd> TERMINAL INTERFACE v4.0.2 </kbd>
 
 <br />
