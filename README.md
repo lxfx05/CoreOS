@@ -17,6 +17,7 @@
 </div>
 
 ### 💀 **Kernel Identity**
+
 \`\`\`dos
 [SYS_LOG]: Minimalist, deterministic kernel architecture.
 [SYS_LOG]: Hardened security protocols active.
@@ -24,6 +25,7 @@
 \`\`\`
 
 ### 🛠️ **System Architecture**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
