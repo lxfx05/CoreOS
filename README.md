@@ -26,7 +26,7 @@
 ### 🛠️ **System Architecture**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,asm,linux,bash,docker,kali,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
   </a>
 </p>
 
