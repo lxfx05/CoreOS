@@ -18,19 +18,20 @@
 
 </div>
 
-### 💀 **Kernel Identity**
+### 💀 **Kernel & Security Protocols**
 
 \`\`\`dos
-[SYS_LOG]: Minimalist, deterministic kernel architecture.
-[SYS_LOG]: Hardened security protocols active.
-[SYS_LOG]: Zero-latency resource allocation enabled.
+[LOGIN]: ROOT USER IDENTIFIED (LXFX05)
+[LOGIC]: Deterministic resource allocation: ENABLED
+[NET]: Stealth mode active - Packet inspection: ACTIVE
+[AUTH]: RSA-4096 Multi-layer handshake: VERIFIED
 \`\`\`
 
 ### 🛠️ **System Architecture**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,vim,kali,bash,linux&theme=dark" />
   </a>
 </p>
 
@@ -40,6 +41,16 @@
 * **AES-256 Logic:** Encrypted data flow between modules. 🔒
 * **Kernel Sandbox:** Isolated execution for untrusted code. 🛡️
 * **ASM Bridges:** Low-level hardware direct access. 📟
+* **Neural Filters:** Advanced logic patterns for system integrity. 🧠
+
+### 📊 **System Specifications**
+
+| Component | Status | Protocol |
+| :--- | :--- | :--- |
+| **Data Stream** | Encrypted | TLS 1.3 |
+| **Logic Core** | Stable | C++20 |
+| **I/O Interface** | Optimized | Direct ASM |
+| **Shell** | Active | Fish/Bash |
 
 ---
 
@@ -47,6 +58,7 @@
 
 ### 🤝 **The Architect**
 <a href="mailto:lucafinaldi3@gmail.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://lxfx05.github.io/Website/"><img src="https://img.shields.io/badge/WEBSITE-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 <br />
 <br />
