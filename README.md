@@ -29,9 +29,9 @@
 ### 🛠️ **System Architecture**
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,asm,kali,bash,linux&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -57,5 +57,5 @@
 
 ---
 <p align="right">
-<i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
+  <i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
 </p>
