@@ -61,5 +61,5 @@
 
 ---
 <p align="left">
-  <i>Architected by <b>Luca Finaldi</b></i> 🏳️‍🌈
+  <i>Architected by <b>Luca Finaldi</b></i> 
 </p>
