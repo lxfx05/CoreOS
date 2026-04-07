@@ -1,11 +1,4 @@
 
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=500&color=00FF41&lines=LOADING+KALI+ENVIRONMENT...;BYPASSING+SECURITY_LAYERS...;ENCRYPTING+ROOT+ACCESS...;SYSTEM+READY+TO+EXECUTE" />
-
-<br />
----
-
 </div>
 
 ### 📂 **Kernel & Security Protocols**
