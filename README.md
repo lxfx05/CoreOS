@@ -26,7 +26,8 @@ To run this system on Apple devices, you must install a Linux-based shell enviro
    `git clone https://github.com/lxfx05/CoreOS`
    `cd CoreOS`
    `python3 nxa.py`
-  **if u have a problem just copy the file .py on the iSH and prompt python3 nxa.py and hit enter**
+
+   **if u have a problem just copy the file .py on the iSH and prompt python3 nxa.py and hit enter**
 5. **Emergency Procedure**: If cloning fails, manually create the files (e.g., using nano), then copy and paste the contents of each .py file from the repository one by one.
 6. **Execution**: To launch and interact with the operating system, type:
    `python3 nxa.py`
