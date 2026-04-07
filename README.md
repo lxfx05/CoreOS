@@ -4,17 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=500&color=00FF41&lines=LOADING+KALI+ENVIRONMENT...;BYPASSING+SECURITY_LAYERS...;ENCRYPTING+ROOT+ACCESS...;SYSTEM+READY+TO+EXECUTE" />
 
 <br />
-
-![SECURITY](https://img.shields.io/badge/---KALI_LOGIC---00FF41?style=for-the-badge&logo=kali-linux&logoColor=black)
-![STATUS](https://img.shields.io/badge/---ROOT_ACTIVE---white?style=for-the-badge)
-
-<br />
-
 ---
 
 </div>
 
-### 💀 **Kernel & Security Protocols**
+### 📂 **Kernel & Security Protocols**
 This system emulates a low-level terminal environment with advanced window management and security protocols. Built for efficiency, it features an automated **Auto-Split** logic for multi-tasking.
 
 ### 🛠️ **System Architecture**
