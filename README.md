@@ -1,6 +1,3 @@
-<div align="center">
-
-### <kbd> TERMINAL INTERFACE v4.0.2 </kbd>
 
 <br />
 
