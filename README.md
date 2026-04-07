@@ -18,38 +18,45 @@
 </div>
 
 ### 💀 **Kernel & Security Protocols**
+This system emulates a low-level terminal environment with advanced window management and security protocols. Built for efficiency, it features an automated **Auto-Split** logic for multi-tasking.
 
 ### 🛠️ **System Architecture**
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,iPhone,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,md,apple" />
   </a>
-  🕹️ Navigation and Cursor
-• W / S / A / D: Move the red cursor (X) within the interface.
-• T: Select the window under the cursor (the border turns blue). This is required to "focus" on an app before closing or using it.
-📂 Window Management (Auto-Split)
-• [App Name]: Type the app name and press Enter to open it.
-• clk: Opens the Clock.
-• cal: Opens the Calculator.
-• tmr: Switches the Clock to Timer mode.
-• X: Closes the window currently in focus (selected with T).
-• Note: If you close a window, the remaining one automatically expands to full screen.
-🛠️ Integrated Applications
-1. Calculator (cal)
-• Direct Input: Type the operation (e.g., 50*2+10) and press Enter.
-• History: Saves only numerical calculations, ignoring text.
-2. Clock & Timer (clk / tmr)
-• Timer Mode: Type tmr, press Enter, then enter the time in hours/minutes/seconds format (e.g., 0/5/0 for 5 minutes).
-• Alert: A green [FINISH!] alert appears when the countdown ends.
-• Reset (C): The C key is the universal reset. It stops the timer, clears the alert, and returns the app to Clock mode.
-⚠️ System and Security
-• Q (Reboot): Starts the reboot procedure.
-• Z (Shutdown): Starts the shutdown procedure.
-• Confirmation Popup: When you press Q or Z, the system hibernates all apps and asks for confirmation:
-• Y: Confirm action (Yes).
-• N: Cancel and return to the OS without closing anything (No).
-</a>
+</p>
+
+---
+
+### 🕹️ **Navigation & Control**
+* **`W` / `S` / `A` / `D`**: Move the red cursor (**X**) within the interface.
+* **`T`**: Focus on the window under the cursor (the border turns **blue**). *Required before interacting with or closing an app.*
+* **`X`**: Close the currently focused window. Remaining windows will automatically expand to full screen.
+
+### 📂 **Command Line & Apps**
+Type the command and press **Enter** to execute:
+
+* **`clk`**: Initialize **Clock** module.
+* **`cal`**: Initialize **Calculator** module.
+* **`tmr`**: Switch Clock to **Timer** mode.
+    * *Input Format:* `HH/MM/SS` (e.g., `0/5/0` for 5 minutes).
+    * *Alert:* A green **[FINISH!]** tag appears on completion.
+    * *Reset:* Press **`C`** to stop the timer and return to Clock mode.
+
+### 🧮 **Calculator Module**
+* **Direct Input**: Type operations directly (e.g., `50*2+10`).
+* **History**: The system automatically logs numerical results, filtering out plain text.
+
+### ⚠️ **System Maintenance**
+* **`Q` (Reboot)**: Initiate the system reboot sequence.
+* **`Z` (Shutdown)**: Initiate the power-down sequence.
+* **Confirmation Protocol**: During hibernation, you must confirm:
+    * **`Y`**: Confirm Action.
+    * **`N`**: Abort and return to OS.
+
+---
+
 <div align="center">
 
 ### 🤝 **The Architect**
