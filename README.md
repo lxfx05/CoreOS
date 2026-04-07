@@ -23,29 +23,33 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vim,kali,bash,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,iPhone,linux&theme=dark" />
   </a>
-</p>
-
----
-
-### 📡 **Network & Security Modules**
-* **AES-256 Logic:** Encrypted data flow between modules. 🔒
-* **Kernel Sandbox:** Isolated execution for untrusted code. 🛡️
-* **ASM Bridges:** Low-level hardware direct access. 📟
-* **Neural Filters:** Advanced logic patterns for system integrity. 🧠
-
-### 📊 **System Specifications**
-
-| Component | Status | Protocol |
-| :--- | :--- | :--- |
-| **Data Stream** | Encrypted | TLS 1.3 |
-| **Logic Core** | Stable | C++20 |
-| **I/O Interface** | Optimized | Direct ASM |
-| **Shell** | Active | Fish/Bash |
-
----
-
+  🕹️ Navigation and Cursor
+• W / S / A / D: Move the red cursor (X) within the interface.
+• T: Select the window under the cursor (the border turns blue). This is required to "focus" on an app before closing or using it.
+📂 Window Management (Auto-Split)
+• [App Name]: Type the app name and press Enter to open it.
+• clk: Opens the Clock.
+• cal: Opens the Calculator.
+• tmr: Switches the Clock to Timer mode.
+• X: Closes the window currently in focus (selected with T).
+• Note: If you close a window, the remaining one automatically expands to full screen.
+🛠️ Integrated Applications
+1. Calculator (cal)
+• Direct Input: Type the operation (e.g., 50*2+10) and press Enter.
+• History: Saves only numerical calculations, ignoring text.
+2. Clock & Timer (clk / tmr)
+• Timer Mode: Type tmr, press Enter, then enter the time in hours/minutes/seconds format (e.g., 0/5/0 for 5 minutes).
+• Alert: A green [FINISH!] alert appears when the countdown ends.
+• Reset (C): The C key is the universal reset. It stops the timer, clears the alert, and returns the app to Clock mode.
+⚠️ System and Security
+• Q (Reboot): Starts the reboot procedure.
+• Z (Shutdown): Starts the shutdown procedure.
+• Confirmation Popup: When you press Q or Z, the system hibernates all apps and asks for confirmation:
+• Y: Confirm action (Yes).
+• N: Cancel and return to the OS without closing anything (No).
+</a>
 <div align="center">
 
 ### 🤝 **The Architect**
