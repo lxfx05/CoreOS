@@ -68,9 +68,6 @@ Type the command and press Enter to execute:
 <a href="mailto:lucafinaldi3@gmail.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://lxfx05.github.io/Website/"><img src="https://img.shields.io/badge/WEBSITE-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
-<br />
-<br />
-
 </div>
 
 ---
