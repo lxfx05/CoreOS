@@ -23,10 +23,12 @@ To run this system on Apple devices, you must install a Linux-based shell enviro
 2. Open iSH and install the necessary dependencies by typing:
    `apk update && apk add python3 git`
 3. **Clone the Repository**:
-   `git clone https://github.com/lxfx05/NXA-OS.git`
-   `cd NXA-OS`
-4. **Emergency Procedure**: If cloning fails, manually create the files (e.g., using nano), then copy and paste the contents of each .py file from the repository one by one.
-5. **Execution**: To launch and interact with the operating system, type:
+   `git clone https://github.com/lxfx05/CoreOS`
+   `cd CoreOS`
+   `python3 nxa.py`
+  **if u have a problem just copy the file .py on the iSH and prompt python3 nxa.py and hit enter**
+5. **Emergency Procedure**: If cloning fails, manually create the files (e.g., using nano), then copy and paste the contents of each .py file from the repository one by one.
+6. **Execution**: To launch and interact with the operating system, type:
    `python3 nxa.py`
 
 ---
@@ -67,8 +69,6 @@ Type the command and press Enter to execute:
 
 <br />
 <br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&center=true&vCenter=true&width=600&color=00FF41&lines=ROOT@LXFX05:~%24_ls+-la;ROOT@LXFX05:~%24_cat+system.log;CORE_OS_V1.0_ONLINE" />
 
 </div>
 
